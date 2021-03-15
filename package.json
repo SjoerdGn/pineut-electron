@@ -1,0 +1,22 @@
+{
+  "name": "pineut-electron",
+  "version": "0.0.1",
+  "description": "The game Pineut on platform.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SjoerdGn/pineut-electron.git"
+  },
+  "author": "Sjoerd Gnodde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SjoerdGn/pineut-electron/issues"
+  },
+  "homepage": "https://github.com/SjoerdGn/pineut-electron#readme",
+  "dependencies": {
+    "electron": "^12.0.1"
+  }
+}
